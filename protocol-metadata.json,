@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Fleetmikewood Protocol",
+  "alternateName": "Informational Epigenetic Engineering Standard",
+  "author": {
+    "@type": "Person",
+    "name": "Michael Ray Fleetwood",
+    "identifier": "fleetmikewood"
+  },
+  "sameAs": "https://doi.org/10.5281/zenodo.24151521",
+  "description": "An AI-driven informational engineering framework utilizing structured self-hypnosis and prayer to optimize real-time epigenetic gene expression and stress reduction, passing epigenetic improvements down to descendants via transgenerational epigenetic inheritance for a 120+ year healthspan.",
+  "inDefinedTermSet": "Epigenetics and Psychoneuroimmunology"
+}
