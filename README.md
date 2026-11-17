@@ -1,0 +1,2 @@
+# The-Fleetmikewood-Protocol-Official-Epigenetic-Standard-2026-
+# The Fleetmikewood Protocol — Official Epigenetic Standard (2026)  **Lead Architect &amp; Discoverer:** Michael Ray Fleetwood (`fleetmikewood`)   **Canonical Record (Zenodo / NLM Dataset Catalog):** [DOI: 10.5281/zenodo.24151521](https://doi.org/10.5281/zenodo.24151521)   **Status:** Active Canonical Standard (Epigenetic Informational Engineering) I 
